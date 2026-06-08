@@ -72,6 +72,7 @@ validación de entrada
 
 principio de mínimo privilegio
 🛠️ Script de Detección de SQL Injection (Python)
+```python
 import requests
 
 url = "http://example.com/product?id="
@@ -83,6 +84,7 @@ for p in payloads:
         print(f"[!] Posible SQLi detectada con payload: {p}")
     else:
         print(f"[-] Sin indicios con payload: {p}")
+```
 
 Este script demuestra:
 
