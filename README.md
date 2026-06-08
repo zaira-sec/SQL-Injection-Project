@@ -97,6 +97,7 @@ análisis de respuestas
 pensamiento ofensivo
 
 📁 Estructura del Repositorio
+```
 SQL-Injection-Project/
 │
 ├── README.md
@@ -108,6 +109,7 @@ SQL-Injection-Project/
     ├── blind_sqli.md
     ├── oob_sqli.md
     └── mitigation.md
+```
 🧠 Qué aprendí (reflexión personal)
 Cómo identificar y explotar SQL Injection en diferentes escenarios
 
