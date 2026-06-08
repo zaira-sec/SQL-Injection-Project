@@ -1,6 +1,6 @@
 import requests
 
-url = "http://example.com/?id="
+url = "https://httpbin.org/get?id="
 
 payloads = ["1'", "1'--", "1' OR '1'='1", "1' UNION SELECT null,null--"]
 
