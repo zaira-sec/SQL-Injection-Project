@@ -1,6 +1,6 @@
 🚀 SQL Injection Analysis & Detection Project
 Proyecto personal basado en el laboratorio SQL Injection Introduction de TryHackMe.
-El objetivo es entender, explotar y detectar SQL Injection como lo haría un analista SOC o un pentester junior.
+El objetivo es entender, explotar y detectar SQL Injection.
 
 🔥 Resumen del Proyecto
 Este repositorio incluye:
